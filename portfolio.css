@@ -1,0 +1,49 @@
+.logo{
+    padding-left: 15%;
+    height: 100px;
+    width: 350px;
+}
+
+.btn{
+    margin-right: 80px;
+    background-color: #00FFFF;
+    
+}
+.h1{
+    color: #00FFFF;
+}
+.my-img{
+    margin-bottom: 20px;
+    width:400px;
+    border-radius: 50%;
+    background: #dbd1d1;
+}
+.message-box{
+    height: 100px;
+    border: gray;
+    background-color: black;
+    width: 400px;  
+}
+.Contact{
+    padding: 15px;
+    width: 500px;
+    border: 1px solid gray;
+    box-shadow: 20px 20px 50px gray;
+    text-align: center;
+    margin: auto;
+    height: 80vh;
+    margin-bottom: 30px;
+}
+.input-box{
+    width: 250px;
+    height: 30px;
+    border: gray;
+    margin: auto;
+    background: black;
+    padding: auto;
+    margin-bottom: 5px;
+    border-radius: 50%;
+}
+.shado{
+    background-color: gray;
+}
